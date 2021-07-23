@@ -14,6 +14,7 @@ public class DogMain {
 
         d.run();
         d1.run();
+        d1.run();
 
     }
 }
